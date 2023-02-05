@@ -1,0 +1,102 @@
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\appsettings.json
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.exe
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.deps.json
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.runtimeconfig.json
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.pdb
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.AssemblyReference.cache
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.AssemblyInfoInputs.cache
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.AssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.CoreCompileInputs.cache
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.Sprint3Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Sprint3Api.props
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sprint3Api.props
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sprint3Api.props
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\scopedcss\bundle\Sprint3Api.styles.css
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.CopyComplete
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\refint\Sprint3Api.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.pdb
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.genruntimeconfig.cache
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\ref\Sprint3Api.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\joaquin.tealdi\Desktop\Practica\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Npgsql.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\appsettings.Development.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\appsettings.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.exe
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.deps.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.runtimeconfig.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Dapper.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Npgsql.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.AssemblyInfo.cs
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.MvcApplicationPartsAssemblyInfo.cs
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.MvcApplicationPartsAssemblyInfo.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\scopedcss\bundle\Sprint3Api.styles.css
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.CopyComplete
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\refint\Sprint3Api.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.pdb
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.genruntimeconfig.cache
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\ref\Sprint3Api.dll
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.Sprint3Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Sprint3Api.props
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sprint3Api.props
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sprint3Api.props
+E:\PROGRAMAS\C#\Curso C#\Fundamentos\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\appsettings.Development.json
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\appsettings.json
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.exe
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.deps.json
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.runtimeconfig.json
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Sprint3Api.pdb
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Dapper.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Npgsql.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.AssemblyReference.cache
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.AssemblyInfoInputs.cache
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.AssemblyInfo.cs
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.MvcApplicationPartsAssemblyInfo.cs
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.MvcApplicationPartsAssemblyInfo.cache
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.Sprint3Api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.build.Sprint3Api.props
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sprint3Api.props
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sprint3Api.props
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.pack.json
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.build.json
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\staticwebassets.development.json
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\scopedcss\bundle\Sprint3Api.styles.css
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.csproj.CopyComplete
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\refint\Sprint3Api.dll
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.pdb
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\Sprint3Api.genruntimeconfig.cache
+E:\PROGRAMAS\C#\Intership\SPRINT 3\Sprint3Api\Sprint3Api\Sprint3Api\obj\Debug\net6.0\ref\Sprint3Api.dll

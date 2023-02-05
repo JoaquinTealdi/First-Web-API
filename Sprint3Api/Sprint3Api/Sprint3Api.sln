@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprint3Api", "Sprint3Api\Sprint3Api.csproj", "{4BFB0EBE-0A09-49A6-9DE0-B6F20B8E5703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BFB0EBE-0A09-49A6-9DE0-B6F20B8E5703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BFB0EBE-0A09-49A6-9DE0-B6F20B8E5703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BFB0EBE-0A09-49A6-9DE0-B6F20B8E5703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BFB0EBE-0A09-49A6-9DE0-B6F20B8E5703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2A1302-6763-49CB-93AB-E5F063F7F8F8}
+	EndGlobalSection
+EndGlobal
